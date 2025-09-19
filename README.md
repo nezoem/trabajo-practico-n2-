@@ -56,7 +56,7 @@
   </div>
 </body>
 </html>
-body {
+<body{
   background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
   font-family: sans-serif;
   padding: 20px;
